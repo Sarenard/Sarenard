@@ -18,7 +18,7 @@
 
 - Un programmeur passionné, dans différents languages
 - Déteste le js et le web
-- [Site web d'un copain](http://pf4.ddns.net/.ne.ne)
+- [Site web d'un copain](http://pf4.ddns.net/ )
 
 <br><br>
 
