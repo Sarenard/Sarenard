@@ -42,6 +42,20 @@
                 <td><img src="https://img.shields.io/static/v1?label=&message=in%20progress&color=blue"/></td>
             </tr>
 	    <tr>
+                <td><a href="https://github.com/Sarenard/Glade">A python to C compiler</a></td>
+                <td>Dec 2022</td>
+                <td>Python</td>
+                <td>8</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=abandonned&color=red"/></td>
+            </tr>
+	    <tr>
+                <td><a href="https://github.com/Sarenard/lambdalizer">Transforms a python program into a lambda</a></td>
+                <td>Mar 2023</td>
+                <td>Python</td>
+                <td>4</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=finished&color=green"/></td>
+            </tr>
+	    <tr>
                 <td><a href="https://github.com/Sarenard/MinecraftCb">A custom language compiled into minecraft</a></td>
                 <td>Jun 2023</td>
                 <td>Python</td>
