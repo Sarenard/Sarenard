@@ -41,12 +41,26 @@
                 <td>6.5</td>
                 <td><img src="https://img.shields.io/static/v1?label=&message=finished&color=green"/></td>
             </tr>
-	    <tr>
+		<tr>
                 <td><a href="https://github.com/Sarenard/leetcode">Leetcode exercices</a></td>
                 <td>Dec 2022</td>
                 <td>Python</td>
                 <td>N/A</td>
                 <td><img src="https://img.shields.io/static/v1?label=&message=in%20progress&color=blue"/></td>
+            </tr>
+	    <tr>
+                <td><a href="https://github.com/Sarenard/AdventOfCode">Advent of code</a></td>
+                <td>Dec 2022</td>
+                <td>Python</td>
+                <td>7.5</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=in%20progress&color=blue"/></td>
+            </tr>
+		<tr>
+                <td><a href="https://github.com/Sarenard/Pygates">A logic gates graphic simulation</a></td>
+                <td>Dec 2022</td>
+                <td>Python</td>
+                <td>7.5</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=abandonned&color=red"/></td>
             </tr>
 	    <tr>
                 <td><a href="https://github.com/Sarenard/Glade">A python to C compiler</a></td>
