@@ -28,6 +28,27 @@
         </thead>
         <tbody>
 	    <tr>
+                <td><a href="https://github.com/Sarenard/antistreamhack">An antistreamhack for twitch</a></td>
+                <td>Aug 2021</td>
+                <td>Python</td>
+                <td>4</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=finished&color=green"/></td>
+            </tr>
+		<tr>
+                <td><a href="https://github.com/Sarenard/aypierre-10ans">A project for the 10 years of Aypierre</a></td>
+                <td>Sep 2021</td>
+                <td>Python</td>
+                <td>N/A</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=abandonned&color=red"/></td>
+            </tr>
+		<tr>
+                <td><a href="https://github.com/Sarenard/Blocks-no-limit-datapack-1.16">Removal of the build limit in minecraft</a></td>
+                <td>Oct 2021</td>
+                <td>Python</td>
+                <td>4</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=finished&color=green"/></td>
+            </tr>
+	    <tr>
                 <td><a href="https://github.com/Sarenard/Porth">A forth like esolang</a></td>
                 <td>Feb 2022</td>
                 <td>Python</td>
@@ -40,6 +61,13 @@
                 <td>Python</td>
                 <td>6.5</td>
                 <td><img src="https://img.shields.io/static/v1?label=&message=finished&color=green"/></td>
+            </tr>
+		<tr>
+                <td><a href="https://github.com/Sarenard/KeaStream-ProfanOS">A shell language for ProfanOS</a></td>
+                <td>Oct 2022</td>
+                <td>Python</td>
+                <td>N/A</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=abandonned&color=red"/></td>
             </tr>
 		<tr>
                 <td><a href="https://github.com/Sarenard/leetcode">Leetcode exercices</a></td>
