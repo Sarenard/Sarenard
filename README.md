@@ -1,10 +1,8 @@
 <p align = "center"><br>
-    <a href="https://github.com/elydre/stats">
+    <a href="https://github.com/sarenard/stats">
         <img src="https://raw.githubusercontent.com/sarenard/stats/master/generated/overview.svg" align="center"/>
     </a>
-    <a href="https://github.com/elydre/elydre/blob/main/all.md">
-        <img src="https://raw.githubusercontent.com/sarenard/stats/master/generated/languages.svg" align="center"/>
-    </a>
+<img src="https://raw.githubusercontent.com/sarenard/stats/master/generated/languages.svg" align="center"/>
     <br><br>
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=sarenard&color=61c265&label=GITHUB+PROFILE+VIEWS&style=for-the-badge"/>
