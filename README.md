@@ -27,6 +27,13 @@
             </tr>
         </thead>
         <tbody>
+	    <tr>
+                <td><a href="https://github.com/Sarenard/Porth">A forth like esolang</a></td>
+                <td>Feb 2022</td>
+                <td>Python</td>
+                <td>5</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=finished&color=green"/></td>
+            </tr>
             <tr>
                 <td><a href="https://github.com/Sarenard/bfpy">A custom language to brainfuck compiler</a></td>
                 <td>Mar 2022</td>
@@ -70,9 +77,9 @@
                 <td><img src="https://img.shields.io/static/v1?label=&message=waiting&color=yellow"/></td>
             </tr>
 	    <tr>
-                <td><a href="https://github.com/Sarenard/forceofwill">A card game bot</a></td>
+                <td><a href="https://github.com/Sarenard/forceofwill">A card game bot for force of will</a></td>
                 <td>Apr 2024</td>
-                <td>Python</td>
+                <td>Rust</td>
                 <td>6.5</td>
                 <td><img src="https://img.shields.io/static/v1?label=&message=abandonned&color=red"/></td>
             </tr>
