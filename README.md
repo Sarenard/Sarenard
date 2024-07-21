@@ -27,11 +27,46 @@
             </tr>
         </thead>
         <tbody>
+            <tr>
+                <td><a href="https://github.com/Sarenard/bfpy">A custom language to brainfuck compiler</a></td>
+                <td>Mar 2022</td>
+                <td>Python</td>
+                <td>6.5</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=finished&color=green"/></td>
+            </tr>
+	    <tr>
+                <td><a href="https://github.com/Sarenard/leetcode">Leetcode exercices</a></td>
+                <td>Dec 2022</td>
+                <td>Python</td>
+                <td>N/A</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=in%20progress&color=blue"/></td>
+            </tr>
+	    <tr>
+                <td><a href="https://github.com/Sarenard/MinecraftCb">A custom language compiled into minecraft</a></td>
+                <td>Jun 2023</td>
+                <td>Python</td>
+                <td>5.5</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=abandonned&color=red"/></td>
+            </tr>
+	    <tr>
+                <td><a href="https://github.com/Sarenard/Rasm">A custom language compiled into asm</a></td>
+                <td>Aug 2023</td>
+                <td>Rust</td>
+                <td>7</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=waiting&color=yellow"/></td>
+            </tr>
+	    <tr>
+                <td><a href="https://github.com/Sarenard/forceofwill">A card game bot</a></td>
+                <td>Apr 2024</td>
+                <td>Python</td>
+                <td>6.5</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=abandonned&color=red"/></td>
+            </tr>
 	    <tr>
                 <td><a href="https://github.com/Sarenard/Primoria">A custom made OS</a></td>
                 <td>May 2024</td>
                 <td>Rust</td>
-                <td>7</td>
+                <td>7.5</td>
                 <td><img src="https://img.shields.io/static/v1?label=&message=in%20progress&color=blue"/></td>
             </tr>
             <tr>
