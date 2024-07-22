@@ -42,7 +42,7 @@
 		<tr>
                 <td><a href="https://github.com/Sarenard/Blocks-no-limit-datapack-1.16">Removal of the build limit in minecraft</a></td>
                 <td>Oct 2021</td>
-                <td>Python</td>
+                <td>Mcfunction & Python</td>
                 <td>4</td>
                 <td><img src="https://img.shields.io/static/v1?label=&message=finished&color=green"/></td>
             </tr>
