@@ -145,7 +145,7 @@
                 <td><img src="https://img.shields.io/static/v1?label=&message=in%20progress&color=blue"/></td>
             </tr>
 	    <tr>
-                <td><a href="[https://github.com/Sarenard/chip-8-compiler](https://github.com/Sarenard/ProofAssist)">A proof assistant in Rust</a></td>
+                <td><a href="https://github.com/Sarenard/ProofAssist">A proof assistant in Rust</a></td>
                 <td>July 2024</td>
                 <td>Rust</td>
                 <td>7.5</td>
