@@ -135,14 +135,14 @@
                 <td>July 2024</td>
                 <td>Rust</td>
                 <td>4</td>
-                <td><img src="https://img.shields.io/static/v1?label=&message=in%20progress&color=blue"/></td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=finished&color=green"/></td>
             </tr>
 	    <tr>
-                <td><a href="https://github.com/Sarenard/chip-8-compiler">Chip-8 custom assembler</a></td>
+                <td><a href="https://github.com/Sarenard/basic-lexer">A basic lexer made in rust</a></td>
                 <td>July 2024</td>
                 <td>Rust</td>
-                <td>5</td>
-                <td><img src="https://img.shields.io/static/v1?label=&message=in%20progress&color=blue"/></td>
+                <td>2</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=finished&color=green"/></td>
             </tr>
 	    <tr>
                 <td><a href="https://github.com/Sarenard/ProofAssist">A proof assistant in Rust</a></td>
