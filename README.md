@@ -151,6 +151,13 @@
                 <td>7.5</td>
                 <td><img src="https://img.shields.io/static/v1?label=&message=in%20progress&color=blue"/></td>
             </tr>
+		<tr>
+                <td><a href="https://github.com/Sarenard/ELFParser">A simple parser for ELF files</a></td>
+                <td>June 2025</td>
+                <td>Rust</td>
+                <td>4</td>
+                <td><img src="https://img.shields.io/static/v1?label=&message=in%20progress&color=blue"/></td>
+            </tr>
 	</tbody>
     </table>
 </center>
