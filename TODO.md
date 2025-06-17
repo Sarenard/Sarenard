@@ -4,8 +4,9 @@
 
 - [ ] add screen drawing
 - [ ] add keyboard handling
-- [ ] add files handling
+- [x] add files handling
 - [ ] add random handling
+- [x] add argc/argv handling
 
 ## [Chip8-ProfanOS](https://github.com/Sarenard/Chip8-ProfanOS)
 
